@@ -1,16 +1,34 @@
-### Hi there 👋
+# Allan Christian Vieira
+Developer at @Sunoresearch </br>
 
-<!--
-**allanvieiracnfx/allanvieiracnfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/allancnfx/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub stats">
+</a>
+<a href="https://www.instagram.com/allancnfx/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="GitHub stats">
+</a>
+<a href="mailto:allancnfx.vieira@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GitHub stats">
+</a>
 
-Here are some ideas to get you started:
+</br>
+ 
+### :earth_americas: I'm just trying to make a better world. </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning ever on creating a new projects and to teach new peoples. <br>
+
+Knowledge is essential to create a better world.
+ 
+<div>
+  <a target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanvieiracnfx&show_icons=true&theme=dracula" alt="GitHub stats">
+  </a>
+  <a target="_blank">
+    <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanvieiracnfx&theme=dracula&)" alt="Top Langs" style="max-width: 100%;">
+  </a>
+</div>
+
+
+
+
+
